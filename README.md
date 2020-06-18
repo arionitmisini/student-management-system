@@ -1,2 +1,2 @@
-# student-management-system
+# Student Managment System
 SMS App
